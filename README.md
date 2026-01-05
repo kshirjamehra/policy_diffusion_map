@@ -20,7 +20,7 @@ This repository houses an interactive **Policy Diffusion Simulator**. By treatin
 
 ![App Screenshot](screenshot.png)
 
-*(Note: Ensure you have an image named `screenshot.png` in your repository folder)*
+
 
 ---
 
